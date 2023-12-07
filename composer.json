@@ -1,0 +1,16 @@
+{
+  "name": "adrianmomorales/svg-credit-card-payment-icons",
+  "description": "A collection of SVG based credit card logo icons",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Adrián Morales",
+      "email": "tu-email@example.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {}
+}
